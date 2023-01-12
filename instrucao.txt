@@ -1,0 +1,16 @@
+# Implementação Servidor: server.js 
+
+# Digite no terminal VSCODE (criar arquivo: package.json): npm init -y
+
+# Digite no terminal VSCODE (instalar as dependências): npm i
+
+# No diretório do projeto, crie um arquivo: server.js
+
+# Digite no terminal VSCODE (iniciar servidor): npm start
+
+# Caso a porta esteja em utilização, basta alterar a mesma, para uma que não esteja em uso (arquivo): server.js
+
+# Outra opção é verificar qual serviço está utilizando a porta e finaliza-lo. 
+
+# Para acessar a página no browser, digite: localhost:8080
+
