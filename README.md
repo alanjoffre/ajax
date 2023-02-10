@@ -1,2 +1,2 @@
 # AJAX
-Repositório com aprendizado e exercícios: AJAX
+- Repositório com: artigos, aprendizados, exercícios e projetos.
